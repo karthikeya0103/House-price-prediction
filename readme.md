@@ -65,7 +65,7 @@ Each row represents a unique housing instance.
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
 ```
-3.
+3.Launch the notebook:
 ```bash
 jupyter notebook
 ```
