@@ -65,7 +65,8 @@ Each row represents a unique housing instance.
 ```bash
 pip install pandas matplotlib seaborn scikit-learn
 ```
-3.```bash
+3.
+```bash
 jupyter notebook
 ```
 4.Open and run linear_regression.ipynb
